@@ -9,6 +9,11 @@ My interests include technology, stocks, reading, and exploring the outdoors.
 I love meeting new people. Get in touch anytime - doshi.sm@northeastern.edu or connect me on [LinkedIn](https://www.linkedin.com/in/smit--doshi/).
 
 <p align="center">
-<img alt="Saumye's Github Stats" src="https://github-readme-stats.vercel.app/api?username=smit2896&show_icons=true&hide_border=true" /> 
+<img alt="Smit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=smit2896&show_icons=true&hide_border=false&count_private=true&theme=graywhite" /> 
 </p>
 
+![](https://komarev.com/ghpvc/?username=smit2896&color=blue)
+
+[comment]: https://github.com/anuraghazra/github-readme-stats
+
+[comment]: https://github.com/antonkomarev/github-profile-views-counter
